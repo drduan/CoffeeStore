@@ -1,0 +1,73 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    
+    android:gravity="center_horizontal">
+    <EditText
+        android:id="@+id/id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="店铺id"
+        android:ems="10"
+        />
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="店铺名称"
+        
+        android:ems="10"
+       />
+
+    <EditText
+        android:id="@+id/address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="店铺地址"
+        android:ems="10" >
+
+    </EditText>
+    
+    <EditText
+       android:id="@+id/tel"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:ems="10"
+       android:hint="店铺电话"
+       android:inputType="textEmailAddress" >
+
+    </EditText>
+    
+    <EditText
+       android:id="@+id/img_name"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:ems="10"
+       android:hint="店铺图片名称"
+       android:text="coffee1"
+       android:inputType="textPostalAddress" />
+
+   
+       
+       <Button
+           android:id="@+id/btnOK"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="确定"
+           
+           />
+       
+   
+
+   <Button
+       android:id="@+id/btnBack"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       
+       android:onClick="back"
+       android:text="返回" />
+
+</LinearLayout>

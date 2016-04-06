@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:state_focused="true">
+        <shape >
+		    <solid android:color="@color/verify_button"/>
+		    <corners android:topRightRadius="5dp" android:bottomRightRadius="5dp"></corners>
+		    <size android:height="45dp"/>
+		</shape>
+    </item>
+    <item android:state_pressed="true">
+        <shape >
+		    <solid android:color="@color/verify_button_focus"/>
+		    <corners android:topRightRadius="5dp" android:bottomRightRadius="5dp"></corners>
+		    <size android:height="45dp"/>
+		</shape>
+    </item>
+	<item>
+		<shape >
+		    <solid android:color="@color/verify_button"/>
+		    <corners android:topRightRadius="5dp" android:bottomRightRadius="5dp"></corners>
+		    <size android:height="45dp"/>
+		</shape>
+	</item>
+
+</selector>

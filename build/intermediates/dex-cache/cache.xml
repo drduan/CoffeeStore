@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/duanxudong/Desktop/CoffeeStore(教师)/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="5cbd1664c2152bed5a22bc3656b8ed1a1acaa0c6">
+        <dex dex="/Users/duanxudong/Desktop/CoffeeStore(教师)/app/build/intermediates/pre-dexed/debug/instant-run_cedef7a45e265c800ba602896057a467bc73cf46.jar" />
+    </item>
+    <item
+        jar="/Users/duanxudong/Desktop/CoffeeStore(教师)/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="382b1d181c5bf844c316fb2fb066223242d2011c">
+        <dex dex="/Users/duanxudong/Desktop/CoffeeStore(教师)/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_7f726ff42aeae5c114baead5aad84a6d5278b6ac.jar" />
+    </item>
+    <item
+        jar="/Users/duanxudong/Downloads/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/duanxudong/Desktop/CoffeeStore(教师)/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_6de6e88396c6cefe5cde3d97621a22c790eca9fd.jar" />
+    </item>
+
+</items>

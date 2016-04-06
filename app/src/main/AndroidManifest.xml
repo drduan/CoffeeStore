@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="neusoft.soft.coffeestore.view"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity android:name="neusoft.soft.coffeestore.view.StartActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="neusoft.soft.coffeestore.view.CoffeeActivity" >
+        </activity>
+        <activity android:name="neusoft.soft.coffeestore.view.Welcome" >
+        </activity>
+        <activity
+            android:name="neusoft.soft.coffeestore.view.MainActivity"
+            android:label="@string/title_activity_main" >
+        </activity>
+        <activity android:name="neusoft.soft.coffeestore.view.ShopActivity" >
+        </activity>
+        <activity android:name="net.adheringsoft.coffeeonline.viewflow.DetailActivity" >
+        </activity>
+        <activity
+            android:name="neusoft.soft.coffeestore.view.RegisterActivity"
+            android:label="@string/title_activity_register1" >
+        </activity>
+        <activity
+            android:name="neusoft.soft.coffeestore.view.ForgetPwdActivity"
+            android:label="@string/title_activity_forget_pwd" >
+        </activity>
+        <activity android:name="neusoft.soft.coffeestore.view.CopyOfShopActivity" >
+        </activity>
+        <activity
+            android:name="neusoft.soft.coffeestore.view.ShopDetailActivity"
+            android:label="@string/title_activity_shop_detail" >
+        </activity>
+        <activity
+            android:name="neusoft.soft.coffeestore.view.CoffeeCultrueActivity"
+            android:label="@string/title_activity_coffee_cultrue" >
+        </activity>
+        <activity android:name="neusoft.soft.coffeestore.view.MyIntegralActivity" >
+        </activity>
+        <activity android:name="neusoft.soft.coffeestore.view.FeedbackActivity" >
+        </activity>
+        <activity android:name="neusoft.soft.coffeestore.view.LoginActivity" >
+        </activity>
+        <activity
+            android:name="exercise.TestMainActivity"
+            android:label="@string/title_activity_test_main" >
+        </activity>
+        <activity
+            android:name="neusoft.soft.coffeestore.view.UpdateShopActivity"
+            android:label="@string/title_activity_update_shop" >
+        </activity>
+        <activity
+            android:name="neusoft.soft.coffeestore.view.AddShopActivity"
+            android:label="@string/title_activity_add_shop" >
+        </activity>
+    </application>
+
+</manifest>

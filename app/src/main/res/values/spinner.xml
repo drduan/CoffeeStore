@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnername">
+        <item>功能意见</item>
+        <item>界面意见</item>
+        <item>您的新需求</item>
+        <item>操作意见</item>
+        <item>流量问题</item>
+        <item>其他</item>
+    </string-array>
+</resources>

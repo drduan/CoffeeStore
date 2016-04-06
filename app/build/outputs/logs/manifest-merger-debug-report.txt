@@ -1,0 +1,137 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:2:1-75:12
+	package
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.2.1] /Users/duanxudong/Desktop/CoffeeStore(教师)/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:11:5-69
+	android:name
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:11:22-66
+application
+ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:13:5-73:19
+MERGED from [com.android.support:support-v4:23.2.1] /Users/duanxudong/Desktop/CoffeeStore(教师)/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:15:9-45
+	android:theme
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:17:9-40
+activity#neusoft.soft.coffeestore.view.StartActivity
+ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:18:19-77
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:22:27-74
+activity#neusoft.soft.coffeestore.view.CoffeeActivity
+ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:25:9-26:20
+	android:name
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:25:19-78
+activity#neusoft.soft.coffeestore.view.Welcome
+ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:27:9-28:20
+	android:name
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:27:19-71
+activity#neusoft.soft.coffeestore.view.MainActivity
+ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:29:9-32:20
+	android:label
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:30:13-70
+activity#neusoft.soft.coffeestore.view.ShopActivity
+ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:33:9-34:20
+	android:name
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:33:19-76
+activity#net.adheringsoft.coffeeonline.viewflow.DetailActivity
+ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:35:9-36:20
+	android:name
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:35:19-87
+activity#neusoft.soft.coffeestore.view.RegisterActivity
+ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:37:9-40:20
+	android:label
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:39:13-61
+	android:name
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:38:13-74
+activity#neusoft.soft.coffeestore.view.ForgetPwdActivity
+ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:41:9-44:20
+	android:label
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:43:13-62
+	android:name
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:42:13-75
+activity#neusoft.soft.coffeestore.view.CopyOfShopActivity
+ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:45:9-46:20
+	android:name
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:45:19-82
+activity#neusoft.soft.coffeestore.view.ShopDetailActivity
+ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:47:9-50:20
+	android:label
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:49:13-63
+	android:name
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:48:13-76
+activity#neusoft.soft.coffeestore.view.CoffeeCultrueActivity
+ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:51:9-54:20
+	android:label
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:53:13-66
+	android:name
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:52:13-79
+activity#neusoft.soft.coffeestore.view.MyIntegralActivity
+ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:55:9-56:20
+	android:name
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:55:19-82
+activity#neusoft.soft.coffeestore.view.FeedbackActivity
+ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:57:9-58:20
+	android:name
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:57:19-80
+activity#neusoft.soft.coffeestore.view.LoginActivity
+ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:59:9-60:20
+	android:name
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:59:19-77
+activity#exercise.TestMainActivity
+ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:61:9-64:20
+	android:label
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:63:13-61
+	android:name
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:62:13-53
+activity#neusoft.soft.coffeestore.view.UpdateShopActivity
+ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:65:9-68:20
+	android:label
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:67:13-63
+	android:name
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:66:13-76
+activity#neusoft.soft.coffeestore.view.AddShopActivity
+ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:69:9-72:20
+	android:label
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:71:13-60
+	android:name
+		ADDED from /Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/AndroidManifest.xml:70:13-73

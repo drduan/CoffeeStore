@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/duanxudong/Desktop/CoffeeStore(教师)/app/build/intermediates/res/merged/debug/menu/shop_detail.xml",
+        "source": "/Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/res/menu/shop_detail.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Desktop/CoffeeStore(教师)/app/build/intermediates/res/merged/debug/menu/shop.xml",
+        "source": "/Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/res/menu/shop.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Desktop/CoffeeStore(教师)/app/build/intermediates/res/merged/debug/menu/test_main.xml",
+        "source": "/Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/res/menu/test_main.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Desktop/CoffeeStore(教师)/app/build/intermediates/res/merged/debug/menu/add_shop.xml",
+        "source": "/Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/res/menu/add_shop.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Desktop/CoffeeStore(教师)/app/build/intermediates/res/merged/debug/menu/register1.xml",
+        "source": "/Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/res/menu/register1.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Desktop/CoffeeStore(教师)/app/build/intermediates/res/merged/debug/menu/forget_pwd.xml",
+        "source": "/Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/res/menu/forget_pwd.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Desktop/CoffeeStore(教师)/app/build/intermediates/res/merged/debug/menu/coffee_cultrue.xml",
+        "source": "/Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/res/menu/coffee_cultrue.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Desktop/CoffeeStore(教师)/app/build/intermediates/res/merged/debug/menu/update_shop.xml",
+        "source": "/Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/res/menu/update_shop.xml"
+    },
+    {
+        "merged": "/Users/duanxudong/Desktop/CoffeeStore(教师)/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/duanxudong/Desktop/CoffeeStore(教师)/app/src/main/res/menu/main.xml"
+    }
+]
